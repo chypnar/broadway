@@ -1,4 +1,28 @@
 body {
 	text-align: center;
-	font-family: sans-serif;
+	font-family: Helvetica, sans-serif;
+}
+
+#nav {
+	background-image: url(../images/the-flatiron-building.png);
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	font-size: 18px;
+	color: white;
+}
+
+#designed-ny {
+	background-image: url(../images/the-flatiron-building.png);
+	color: white;
 }
